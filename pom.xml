@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mss.plugins</groupId>
 	<artifactId>miracle-code-checkstyle</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.5</version>
 	<packaging>maven-plugin</packaging>
 	<description>Sample Project for Checkstyle and PMD</description>
 	
