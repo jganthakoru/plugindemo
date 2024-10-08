@@ -3,8 +3,13 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
 	<groupId>com.mss.plugin</groupId>
 	<artifactId>code-checkstyle</artifactId>
+=======
+	<groupId>com.mss.plugins</groupId>
+	<artifactId>miracle-code-checkstyle</artifactId>
+>>>>>>> c6075803096498d802947725bffd654d151e3cc9
 	<version>0.0.5</version>
 	<packaging>maven-plugin</packaging>
 	<description>Sample Project for Checkstyle and PMD</description>
